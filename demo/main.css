@@ -43,10 +43,12 @@ p a {
 }
 .container {
   position: relative;
-  margin: 80px;
-  background-color: #fff;
-  width: calc(100% - 160px);
-  height: calc(100% - 160px);
+  /*margin: 80px;*/
+  /*background-color: #fff;*/
+  /*width: calc(100% - 160px);
+  height: calc(100% - 160px);*/
+  width:100vw;
+  height:100vh;
   overflow: hidden;
 }
 /* glitch elem must have absolute position */
